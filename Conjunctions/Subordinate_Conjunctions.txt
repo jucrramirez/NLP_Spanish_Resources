@@ -1,0 +1,91 @@
+Conjunction	Type
+porque	Causal
+pues	Causal
+ya que	Causal
+dado que	Causal
+visto que	Causal
+puesto que	Causal
+a causa de	Causal
+a fuerza de	Causal
+con motivo de	Causal
+en razon de	Causal
+en virtud de	Causal
+en vista de	Causal
+gracias a	Causal
+por causa de	Causal
+por razón	Causal
+por culpa de	Causal
+supuesto que	Causal
+considerando que	Causal
+teniendo en cuenta que	Causal
+así	Comparative
+como Comparative
+tan Comparative
+tal como	Comparative
+como si Comparative
+sin que	Comparative
+más que Comparative
+peor que	Comparative
+menos que	Comparative
+mejor que	Comparative
+igual que	Comparative
+así como	Comparative
+tanto como	Comparative
+lo mismo que	Comparative
+de esta forma	Comparative
+de esta manera	Comparative
+como que	Comparative
+semejante a	Comparative
+que	Completive
+si	Completive
+aunque	Cncessional 
+aún cuando	Concessional
+si bien	Concessional
+por más que	Concessional
+bien que	Concessional
+así	Concessional
+por mucho que	Concessional
+si	Conditional
+si no	Conditional
+como	Conditional
+ya que	Conditional
+siempre que	Conditional
+con tal que	Conditional
+a menos que	Conditional
+siempre y cuando	Conditional
+salvo que	Conditional
+mientras	Conditional
+así	Continuous
+así que	Continuous
+además	Continuous
+pues	Continuous
+así pues	Continuous
+ahora bien	Continuous
+sobre todo	Continuous
+conque	Consecutive
+luego	Consecutive
+pues	Consecutive
+por consiguiente	Consecutive
+así que	Consecutive
+en consecuencia	Consecutive
+de manera que	Consecutive
+tanto que	Consecutive
+tan	Consecutive
+por lo tanto	Consecutive
+de modo que	Consecutive
+de manera que	Consecutive
+de forma que	Consecutive
+para que	Final
+a fin de que	Final
+con objeto de	Final
+conque	Ilative
+por consiguiente	Ilative
+ahora bien	Ilative
+por lo tanto	Ilative
+ergo	Ilative
+luego	Ilative
+cuando	Temporary
+después que	Temporary
+antes que	Temporary
+mientras que	Temporary
+luego que	Temporary

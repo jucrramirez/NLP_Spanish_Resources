@@ -1,0 +1,30 @@
+Conjunction	Type
+y	Copulative 
+e	Copulative
+ni	Copulative
+pero	Adversative
+empero	Adversative
+aunque	Adversative
+mas	Adversative
+sino	Adversative
+sin embargo	Adversative
+no obstante	Adversative
+antes bien	Adversative
+al contrario	Adversative
+a pesar de	Adversative
+si bien	Adversative
+más bien	Adversative
+antes bien	Adversative
+sino que	Adversative
+salvo que	Adversative
+excepto que	Adversative
+a menos que	Adversative
+o	Disjunctive
+u	Disjunctive
+ya	Disjunctive
+ora	Disjunctive
+bien	Disjunctive
+es decir	Explanatory
+o sea	Explanatory
+esto es	Explanatory
+mejor dicho	Explanatory
